@@ -14,7 +14,7 @@ To empower the decentralised applications (Dapps) ecosystem
 Dithereum's vision is not only to be the best public blockchain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Dithereum is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
 
 ## Dithereum’s Performance
-- TPS: 500+
+- TPS: 100k+
 - Average block interval: 3s
 
 ## Consensus Mechanism
@@ -119,10 +119,9 @@ Dithereum will strongly support the development of Dithereum ecosystem:
 
 
 ## Interact with Us on Social Media
-- Facebook：Dithereum
-- Twitter：Dithereum
-- Telegram： Dithereum
-- Github: Dithereum
+- Twitter：[https://twitter.com/Dithereum](https://twitter.com/Dithereum)
+- Telegram： [https://t.me/Dithereum](https://t.me/Dithereum)
+- Github: [https://github.com/Dithereum](https://github.com/dithereum)
 
 ## Risk Warning
 - All users and developers can participate in the current test environment and subsequent stages of Dithereum for free, and there is no charging scenario.
